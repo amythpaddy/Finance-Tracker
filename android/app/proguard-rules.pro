@@ -1,0 +1,1 @@
+-keep class com.himalayandevhouse.financetracker.finance_tracker.BuildConfig { *; }

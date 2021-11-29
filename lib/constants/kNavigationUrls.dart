@@ -1,0 +1,1 @@
+const kNavigateHome = '/home';
